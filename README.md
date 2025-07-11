@@ -28,6 +28,6 @@ Manuhergonz</a></h1>
 </p>
 <p align="center">
   <a href="https://www.instagram.com/">
-    <img src="https://skillicons.dev/icons?i=DISCORD" />
+    <img src="https://skillicons.dev/icons?i=discord" />
   </a>
 </p>
