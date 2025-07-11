@@ -9,7 +9,7 @@ Manuhergonz</a></h1>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,discord,git,java,idea" />
+    <img src="https://skillicons.dev/icons?i=html,css,git,java,idea" />
   </a>
 </p>
 
@@ -24,5 +24,10 @@ Manuhergonz</a></h1>
 <p align="center">
   <a href="https://www.instagram.com/">
     <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://www.instagram.com/">
+    <img src="https://skillicons.dev/icons?i=DISCORD" />
   </a>
 </p>
