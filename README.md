@@ -3,7 +3,7 @@
 Manuhergonz</a></h1>
 <h3 align="center">A Passionate Mobile App Developer From Venezuela &#127470;&#127475</h3>
 
-<img src=" https://github.com/manuhergonz/Manuhergonz/blob/e664278482d23b39a69ed1ca3d946623449481fd/img%20github.png"/>
+<img src="https://github.com/manuhergonz/Manuhergonz/blob/e664278482d23b39a69ed1ca3d946623449481fd/img%20github.png" />
 
 <p align="center">
   <a href="https://skillicons.dev">
