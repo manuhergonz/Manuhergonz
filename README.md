@@ -4,8 +4,6 @@ Manuhergonz</a></h1>
 <h3 align="center">A Passionate Mobile App Developer From Venezuela &#127470;&#127475</h3>
 
 
-
-
-
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 
