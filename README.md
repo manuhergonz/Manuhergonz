@@ -27,7 +27,7 @@ Manuhergonz</a></h1>
   </a>
 </p>
 <p align="center">
-  <a href="https://www.instagram.com/">
+  <a href="https://discordapp.com/users/859980633983418369">
     <img src="https://skillicons.dev/icons?i=discord" />
   </a>
 </p>
