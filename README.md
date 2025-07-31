@@ -3,7 +3,7 @@
 Manuhergonz</a></h1>
 <h3 align="center">A Passionate Mobile App Developer From Venezuela &#127470;&#127475</h3> -->
 
-<img src="https://github.com/manuhergonz/Manuhergonz/blob/f1fac67080628499b0c304a16f281d8233d93da4/img%202.png" width="1000px" height="400"  />
+<img src="https://github.com/manuhergonz/Manuhergonz/blob/main/Dise%C3%B1o%20cibern%C3%A9tico%20neon%20con%20c%C3%B3digo.png?raw=true" width="1000px" height="400"  />
 
 <img src=https://upload.wikimedia.org/wikipedia/commons/1/1e/SITIO-EN-CONSTRUCCION.jpg  />
 
